@@ -1,0 +1,10 @@
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\bin\Debug\netcoreapp2.0\app_financas.deps.json
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\bin\Debug\netcoreapp2.0\app_financas.runtimeconfig.json
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\bin\Debug\netcoreapp2.0\app_financas.runtimeconfig.dev.json
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\bin\Debug\netcoreapp2.0\app_financas.dll
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\bin\Debug\netcoreapp2.0\app_financas.pdb
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\obj\Debug\netcoreapp2.0\app_financas.csproj.CoreCompileInputs.cache
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\obj\Debug\netcoreapp2.0\app_financas.AssemblyInfoInputs.cache
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\obj\Debug\netcoreapp2.0\app_financas.AssemblyInfo.cs
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\obj\Debug\netcoreapp2.0\app_financas.dll
+c:\Users\thalu\Documents\Thales\Class\VS\app_financas\obj\Debug\netcoreapp2.0\app_financas.pdb
